@@ -5,7 +5,7 @@
 The goal of this asessment is for you to clone a repo, create a single screen ReactJS web app, and add an interesting feature to it.
 
 1. Clone this repo and copy the contents into your own repo. Please name your repo [FIRST NAME]-[LAST NAME]-web
-2. Inside this repo, create a [ReactJS app](https://reactjs.org/docs/create-a-new-react-app.html)
+2. Inside your repo, create a [ReactJS app](https://reactjs.org/docs/create-a-new-react-app.html)
 3. Run `npm start`
 4. Change the favicon to the logo provided in the /assets folder
 5. Using [material-ui](https://material-ui.com/) create a simple **About You** website. Your website should include:
