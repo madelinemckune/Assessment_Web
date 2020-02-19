@@ -6,7 +6,7 @@ The goal of this asessment is for you to clone a repo, create a single screen Re
 
 1. Clone this repo and copy the contents into your own repo. Please name your repo [FIRST NAME]-[LAST NAME]-web
 2. Inside your repo there is a ReactJS project, more information about [ReactJS app](https://reactjs.org/docs/create-a-new-react-app.html) can be found here
-3. Run `npm start` to start a localhost server. If you do not have [npm](https://nodejs.org/en/) on your computer, you will need to install it before you can continue
+3. Run `npm start` inside of the project **about-me** to start a localhost server. If you do not have [npm](https://nodejs.org/en/) on your computer, you will need to install it before you can continue
 4. Change the favicon to the logo provided in the /assets folder
 5. Using [material-ui](https://material-ui.com/) create a simple, single-page **About You** website. Your website should include:
    - A picture of yourself
