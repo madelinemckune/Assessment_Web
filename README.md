@@ -5,10 +5,10 @@
 The goal of this asessment is for you to clone a repo, create a single screen ReactJS web app, and add an interesting feature to it. This assessment assumes you have a basic knowledge of git. If you do not, please refer to the [git documentation](https://git-scm.com/doc).
 
 1. Clone this repo and copy the contents into your own repo. Please name your repo [FIRST NAME]-[LAST NAME]-web
-2. Inside this repo there is a ReactJS project, more information about [ReactJS app](https://reactjs.org/docs/create-a-new-react-app.html) can be found here
-3. Run `npm start` to start a localhost server. If you do not have [npm](https://nodejs.org/en/) on your computer, you will need to install it.
+2. Inside your repo there is a ReactJS project, more information about [ReactJS app](https://reactjs.org/docs/create-a-new-react-app.html) can be found here
+3. Run `npm start` to start a localhost server. If you do not have [npm](https://nodejs.org/en/) on your computer, you will need to install it before you can continue
 4. Change the favicon to the logo provided in the /assets folder
-5. Using [material-ui](https://material-ui.com/) create a simple **About You** website. Your website should include:
+5. Using [material-ui](https://material-ui.com/) create a simple, single-page **About You** website. Your website should include:
    - A picture of yourself
    - A short bio (3-5 sentences)
    - An interactive component that prints to the console when clicked
